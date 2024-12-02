@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github/yytt5301/wkim_gosdk/pkg/wksdk"
+	"github.com/yytt5301/wkim_gosdk/pkg/wksdk"
 
 	wkproto "github.com/WuKongIM/WuKongIMGoProto"
 )

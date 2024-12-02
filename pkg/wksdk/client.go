@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github/yytt5301/wkim_gosdk/pkg/wkutil"
+	"github.com/yytt5301/wkim_gosdk/pkg/wkutil"
 
 	wkproto "github.com/WuKongIM/WuKongIMGoProto"
 	"go.uber.org/atomic"

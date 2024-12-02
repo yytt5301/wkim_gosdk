@@ -1,4 +1,4 @@
-module github/yytt5301/wkim_gosdk
+module github.com/yytt5301/wkim_gosdk
 
 go 1.20
 
